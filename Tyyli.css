@@ -1,0 +1,9 @@
+body {
+    background-color: bisque;
+    background-image: url(Kuvat/Taidemuseo.jpg);
+    background-size: 65%;
+    background-repeat: no-repeat;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {color: rgb(83, 44, 12);}
+p {color: rgb(199, 199, 199);}
