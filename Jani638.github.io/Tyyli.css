@@ -1,0 +1,203 @@
+body {
+    margin: 0;
+    background-color: #EEE3C6;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+header {
+    color: #EEE3C6;
+    background-size: cover;
+    background-position: top;
+    text-align: center;
+    padding-top: 30px;
+}
+
+nav a {
+    background: #5C0028;
+    color:#EEE3C6;
+    display: inline-block;
+    border-radius: 10px;
+    border: 3px solid #5C0028;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav a:hover {
+    color: #5C0028;
+    background-color: #EEE3C6;
+}
+#valittu {
+    color: #5C0028;
+    background-color: rgba(255, 198, 148, 0.6);
+}
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-decoration: none;
+    text-align: left;
+    color: #DCB4B3;
+    background-color:#5C0028;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    flex-direction: row;
+    bottom: 0;
+    width: 100%;
+
+}
+.fa { 
+    border: 3px solid #ab876c;
+    padding: 10px;
+    text-align: center;
+    background-color: #EEE3C6;
+    color:#5C0028;
+}
+.fa:hover {
+    border: 3px solid #ab876c;
+    background-color: #eee3c6ab;
+}
+#contact-sisältö {
+    text-decoration: none;
+}
+.navbar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+/*Pääsivun sisältö*/
+.Pääsivu{
+    background-color: #DCB4B3;
+}
+#headeretusivu{
+    background-image: url("../Kuvat/rainvto.jpg");
+    padding: 200px;
+}
+#lause1{
+    text-shadow: 2px 2px #5C0028;
+    font-size: 4vw;
+}
+#lause2{
+    text-shadow: 2px 2px #5C0028;
+    padding-bottom: 20px;
+}
+.CTAdiv{
+    padding-top: 30px;
+}
+.mainflex-container{
+    background-color: #EEE3C6;
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.flex-container1{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+.flex-container2{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.flex-container2 h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#teksti1, #teksti2{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: start;
+    font-size: 1.5vw;
+}
+#teksti3{
+    text-align: start;
+    font-size: 1.5vw;
+    padding-right: px;
+}
+#kuva1{
+    margin-left:75px;
+    margin-top: 20px;
+    border: 4px solid #DCB4B3;
+}
+#kuva2{
+    border: 4px solid #5C0028;
+}
+#kuva3{
+    border: 4px solid #DCB4B3;
+    margin-left: 50px;
+}
+/*Menu sivun sisätlö*/
+.Menu-sivu header{
+    background-image: url("../Kuvat/Menukuva.jpg");
+    background-position: bottom;
+    padding: 100px;
+}
+#menuotsikko{
+    padding:20px;
+    text-shadow: 2px 2px #5C0028;
+    font-size: 3vw;
+}
+.Menu-sivu{
+    background-color: #5C0028;
+}
+.flex-container-Menu {
+    background-color: #DCB4B3;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#tekstimenu {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#Menufooter{
+    background-color: #EEE3C6;
+    color: #5C0028;
+}
+/*Contact sivun sisältö*/
+.Contact-sivu{
+    background-image: url("../Kuvat/Ikkuna.jpg");
+    background-size: cover;
+    background-position: top;
+}
+#headercontact{
+    padding:100px ;
+}
+#otsikko-contact{
+    text-shadow: 2px 2px #5C0028;
+    padding-top:50px;
+    font-size: 3vw;
+}
+.flex-container-contact{
+    background-color: #EEE3C6;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.flex-container-kartta{
+    border: 4px solid #5C0028;
+}
+table{
+    font-size: 1.5vw;
+    text-align: left;
+}
+
