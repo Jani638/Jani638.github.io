@@ -57,38 +57,41 @@ footer {
     border: 3px solid #ab876c;
     background-color: #eee3c6ab;
 }
-.toimintakehote {
-    border: 3px #5C0028;
-    border-radius: 10px;
-    background-color: #5C0028;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #EEE3C6;
-    padding: 16px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    margin: 4px 2px;
-    cursor: pointer;
-}
 #contact-sisältö {
     text-decoration: none;
 }
 .navbar {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
 }
 
 /*Pääsivun sisältö*/
+.Pääsivu{
+    background-color: #DCB4B3;
+}
 #headeretusivu{
     background-image: url("../Kuvat/rainvto.jpg");
-    padding: 300px;
+    padding: 200px;
+}
+#lause1{
+    text-shadow: 2px 2px #5C0028;
+    font-size: 4vw;
+}
+#lause2{
+    text-shadow: 2px 2px #5C0028;
+    padding-bottom: 20px;
+}
+.CTAdiv{
+    padding-top: 30px;
 }
 .mainflex-container{
+    background-color: #EEE3C6;
     display: flex;
     flex-direction: row;
-    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .flex-container1{
     display: flex;
@@ -109,23 +112,42 @@ footer {
     justify-content: center;
     align-items: center;
 }
-#kuva1 {
-    margin-left: 20%;
+#teksti1, #teksti2{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: start;
+    font-size: 1.5vw;
 }
-#teksti1, #teksti2, #teksti3{
-    margin: 5%;
+#teksti3{
+    text-align: start;
+    font-size: 1.5vw;
+    padding-right: px;
+}
+#kuva1{
+    margin-left:75px;
+    margin-top: 20px;
+    border: 4px solid #DCB4B3;
+}
+#kuva2{
+    border: 4px solid #5C0028;
+}
+#kuva3{
+    border: 4px solid #DCB4B3;
+    margin-left: 50px;
 }
 /*Menu sivun sisätlö*/
 .Menu-sivu header{
-    background-image: url("../Kuvat/Keittiökuva.jpg");
-    background-size: cover;
-    background-position: top;
-    padding: 80px;
+    background-image: url("../Kuvat/Menukuva.jpg");
+    background-position: bottom;
+    padding: 100px;
+}
+#menuotsikko{
+    padding:20px;
+    text-shadow: 2px 2px #5C0028;
+    font-size: 3vw;
 }
 .Menu-sivu{
-    background-image: url("..//Kuvat/Keittiökuva.jpg");
-    background-size: cover;
-    background-position: center;
+    background-color: #5C0028;
 }
 .flex-container-Menu {
     background-color: #DCB4B3;
@@ -142,6 +164,10 @@ footer {
     margin-left: 10%;
     margin-right: 10%;
 }
+#Menufooter{
+    background-color: #EEE3C6;
+    color: #5C0028;
+}
 /*Contact sivun sisältö*/
 .Contact-sivu{
     background-image: url("../Kuvat/Ikkuna.jpg");
@@ -151,13 +177,18 @@ footer {
 #headercontact{
     padding:100px ;
 }
+#otsikko-contact{
+    text-shadow: 2px 2px #5C0028;
+    padding-top:50px;
+    font-size: 3vw;
+}
 .flex-container-contact{
     background-color: #EEE3C6;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
+    border-radius: 5px;
     padding: 10px;
     margin-left: 15%;
     margin-right: 15%;
+    margin-bottom: 5%;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
