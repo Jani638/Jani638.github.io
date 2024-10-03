@@ -207,6 +207,10 @@ table{
     }
     .Pääsivu{
         background-color: #DCB4B3;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
     }
     #headeretusivu{
         background-image: url("../Kuvat/rainvto.jpg");
