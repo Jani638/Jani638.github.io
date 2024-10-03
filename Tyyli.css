@@ -209,7 +209,7 @@ table{
         justify-content: center;
     }
     #headeretusivu{
-        background-image: url(../Kuvat/ravintola-mobiili.jpg);
+        background-image: url("../Kuvat/ravintola-mobiili.jpg");
     }
     #kuva1, #kuva2, #kuva3{
         height: auto;
