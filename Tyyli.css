@@ -212,6 +212,14 @@ table{
     .header{
         max-width: 600px;
     }
+    .flex-container1{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .flex-container2{
+        flex-direction: column;
+        justify-content: center;
+    }
     #kuva1, #kuva2, #kuva3{
         height: auto;
         max-width: 80%;
