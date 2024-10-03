@@ -208,7 +208,7 @@ table{
         align-items: center;
         justify-content: center;
     }
-    .header{
+    #headeretusivu{
         background-image: url("../Kuvat/ravintola-mobiili.jpg");
         max-width: 600px;
     }
