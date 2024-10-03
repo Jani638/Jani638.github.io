@@ -208,7 +208,7 @@ table{
         align-items: center;
         justify-content: center;
     }
-    #headeretusivu{
+    .header{
         background-image: url("../Kuvat/ravintola-mobiili.jpg");
     }
     #kuva1, #kuva2, #kuva3{
