@@ -202,10 +202,15 @@ table{
 }
 /*Mobiili koko*/
 @media (max-width: 600px){
+    body{
+        width: 100%;
+    }
     .Pääsivu{
         background-color: #DCB4B3;
     }
     #headeretusivu{
         background-image: url("../Kuvat/rainvto.jpg");
+        background-size: cover;
+        background-position: center;
     }
 }
