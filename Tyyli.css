@@ -209,6 +209,7 @@ table{
     }
     #headeretusivu{
         background-image: url("../Kuvat/ravintola-mobiili.jpg");
+        max-width: 100%;
     }
     .mainflex-container{
         width: 100%;
