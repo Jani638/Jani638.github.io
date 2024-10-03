@@ -203,10 +203,10 @@ table{
 /*Mobiili koko*/
 @media (max-width: 600px){
     .Pääsivu{
-        background-image: url(../Kuvat/ravintola-mobiili.jpg);
+        background-image: url("../Kuvat/ravintola-mobiili.jpg");
         background-size: cover;
         height: 400px;
-        flex-direction: column;
+        flex-directi
     }
     #kuva1, #kuva2, #kuva3{
         height: auto;
