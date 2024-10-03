@@ -235,6 +235,10 @@ table{
         align-content: center;
         justify-content: center;
     }
+    #kartta{
+        max-width: 80% ;
+        height: auto;
+    }
     footer{
         flex-direction: column;
         text-align: center;
