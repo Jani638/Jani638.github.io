@@ -239,8 +239,11 @@ table{
         justify-content: center;
     }
     #kartta{
-        max-width: 80% ;
+        width: 80% ;
         height: auto;
+    }
+    .aukioloajat{
+        font-size: 15px;
     }
     footer{
         width: 100%;
