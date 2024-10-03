@@ -220,4 +220,8 @@ table{
         padding: 7px;
         margin:3px 5px;
     }
+    footer{
+        flex-direction: column;
+        text-align: center;
+    }
 }
