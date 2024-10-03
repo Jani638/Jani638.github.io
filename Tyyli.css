@@ -202,15 +202,19 @@ table{
 }
 /*Mobiili koko*/
 @media (max-width: 600px){
-    body{
-        width: 100%;
-    }
     .Pääsivu{
         background-color: #DCB4B3;
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
+    }
+    .mainflex-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: 3% 10% 3% 10%;
     }
     #headeretusivu{
         background-image: url("../Kuvat/rainvto.jpg");
