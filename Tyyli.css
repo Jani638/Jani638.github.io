@@ -206,7 +206,11 @@ table{
         background-image: url("../Kuvat/ravintola-mobiili.jpg");
         background-size: cover;
         height: 400px;
-        flex-directi
+    }
+    .header{
+        display: flex;
+        flex-direction: column;
+        
     }
     #kuva1, #kuva2, #kuva3{
         height: auto;
