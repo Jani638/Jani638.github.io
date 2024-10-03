@@ -211,6 +211,7 @@ table{
         background-image: url("../Kuvat/ravintola-mobiili.jpg");
     }
     .mainflex-container{
+        width: 100%;
         display: flex;
         flex-direction: column;
         align-items: center;
