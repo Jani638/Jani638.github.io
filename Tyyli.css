@@ -229,7 +229,7 @@ table{
     #menuotsikko{
         font-size: 30px;
     }
-    .Contact-sivu{
+    .Yhteystietosivu{
         display: flex;
         flex-direction: column;
         align-content: center;
