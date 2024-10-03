@@ -203,20 +203,22 @@ table{
 /*Mobiili koko*/
 @media (max-width: 600px){
     .Pääsivu{
-        background-image: url("../Kuvat/ravintola-mobiili.jpg");
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
     }
     .header{
+        background-image: url("../Kuvat/ravintola-mobiili.jpg");
         max-width: 600px;
     }
     .flex-container1{
+        display: flex;
         flex-direction: column;
         justify-content: center;
     }
     .flex-container2{
+        display: flex;
         flex-direction: column;
         justify-content: center;
     }
