@@ -206,12 +206,13 @@ table{
         background-image: url("../Kuvat/ravintola-mobiili.jpg");
         background-size: cover;
         height: 400px;
-    }
-    .header{
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
+    }
+    .header{
+        
 
     }
     #kuva1, #kuva2, #kuva3{
