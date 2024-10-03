@@ -206,8 +206,8 @@ table{
         background-image: url("../Kuvat/ravintola-mobiili.jpg");
         display: flex;
         flex-direction: column;
-        align-items: center;
-        justify-content: center;
+        align-content: center;
+        justify-content: space-evenly;
     }
     #kuva1, #kuva2, #kuva3{
         height: auto;
@@ -222,6 +222,12 @@ table{
     }
     #menuotsikko{
         font-size: 30px;
+    }
+    .Contact-sivu{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        justify-content: space-evenly;
     }
     footer{
         flex-direction: column;
