@@ -216,8 +216,8 @@ table{
         margin: 3% 10% 3% 10%;
     }
     #Kuva1, #Kuva2, #Kuva3{
-        height: auto;
-        width: auto;
+        height: 50px;
+        width: 100px;
     }
     nav a { 
         font-size: 15px;
