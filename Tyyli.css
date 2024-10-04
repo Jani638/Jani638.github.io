@@ -204,12 +204,12 @@ table{
 @media (max-width: 600px){
     .mainflex-container{
         border: 2px solid #3cff00;
-        display: grid;
-            grid-template-areas:
-            'g1'
-            'g2'
-            'g3';
-    }
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        justify-content: center;
+
+        }
     #headeretusivu{
         display: flex;
         flex-direction: column;
