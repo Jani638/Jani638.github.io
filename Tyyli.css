@@ -199,9 +199,6 @@ table{
     font-size: 1.5vw;
     text-align: left;
 }
-#footercontact{
-    position: fixed;
-}
 /*Mobiili koko*/
 @media (max-width: 600px){
     .Pääsivu{
@@ -254,6 +251,6 @@ table{
 /*Iso näyttö*/
 @media (max-width: 1300px) {
     #footercontact{
-        margin-top: 100px;
+        position: fixed;
     }
 }
