@@ -213,6 +213,9 @@ table{
         justify-content: center;
     
         }
+        #teksti{
+            margin-left: 5%;
+        }
         #kuva1, #kuva2, #kuva3{
             height: auto;
             width: 100%;
