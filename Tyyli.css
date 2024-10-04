@@ -203,11 +203,16 @@ table{
 /*Mobiili koko*/
 @media (max-width: 600px){
     .Pääsivu{
+        margin: 0;
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: space-evenly;
     
+        }
+        #kuva1, #kuva2, #kuva3{
+            height: auto;
+            width: 100%;
         }
     #headeretusivu{
         display: flex;
