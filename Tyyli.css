@@ -202,7 +202,7 @@ table{
 }
 /*Mobiili koko*/
 @media (max-width: 600px){
-    .mainflex-container, #teksti1, #teksti2{
+    .mainflex-container, #teksti1, #teksti2, #teksti3{
         border: 2px solid #3cff00;
         display: flex;
         flex-direction: column;
@@ -210,6 +210,9 @@ table{
         align-items: center;
         margin-left: 5%;
         margin-right: 5%;
+        }
+        #teksti1, #teksti2, #teksti3{
+            font-size: 15px;
         }
     #headeretusivu{
         display: flex;
@@ -219,12 +222,6 @@ table{
         background-image: url("../Kuvat/ravintola-mobiili.jpg");
         max-width: 80%;
     
-    }
-    #teksti3{
-        border: 2px solid #001eff;
-        font-size: 15px;
-        width: 100%;
-        margin-left: 10%;
     }
     #kuva1, #kuva2, #kuva3{
         height: auto;
