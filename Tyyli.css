@@ -214,8 +214,9 @@ table{
         #teksti1, #teksti2, #teksti3{
             margin-left: 50%;
             font-size: 20px;
-            text-align: center;
-            width: 100px;
+            text-align: left;
+            width: 100%;
+            height: auto;
         }
     #headeretusivu{
         display: flex;
