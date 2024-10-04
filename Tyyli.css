@@ -240,6 +240,7 @@ table{
         display: flex;
         flex-direction: column;
         margin-bottom: 50px;
+        font-size: 15px;
     }
     #kartta{
         width: 100%;
