@@ -244,6 +244,7 @@ table{
     }
     #kartta{
         width: 50%;
+        overflow-x: scroll;
     }
 
     footer{
