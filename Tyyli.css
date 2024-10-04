@@ -199,6 +199,9 @@ table{
     font-size: 1.5vw;
     text-align: left;
 }
+#footercontact{
+    position: fixed;
+}
 /*Mobiili koko*/
 @media (max-width: 600px){
     .Pääsivu{
