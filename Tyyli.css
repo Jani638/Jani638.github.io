@@ -202,7 +202,7 @@ table{
 }
 /*Mobiili koko*/
 @media (max-width: 600px){
-    .mainflex-container{
+    .Pääsivu{
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
