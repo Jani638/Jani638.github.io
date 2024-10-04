@@ -210,12 +210,17 @@ table{
             'g2';
     }
     #headeretusivu{
+        align-items: center;
+        justify-content: center;
         background-image: url("../Kuvat/ravintola-mobiili.jpg");
         max-width: 100%;
     }
     .flex-container1{
         display: grid;
         grid-area: g3;
+    }
+    .flex-container2{
+        grid-area: g2;
     }
     #kuva1, #kuva2, #kuva3{
         height: auto;
