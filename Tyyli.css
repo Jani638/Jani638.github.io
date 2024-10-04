@@ -220,10 +220,10 @@ table{
         max-width: 80%;
     }
     .toimintakehotenappi{
-        font-size: 18px;
+        font-size: 40px;
     }
     #teksti1{
-        border: 2px solid #ffffff;
+        border: 2px solid #000000;
         font-size: 15px;
         width: 100%;
     }
