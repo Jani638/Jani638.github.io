@@ -244,10 +244,10 @@ table{
         justify-content: center;
     }
     #kartta{
-        width: 80% ;
-        height: auto;
+        grid-area: g3;
     }
     .aukioloajat{
+        grid-area: g2;
         font-size: 15px;
     }
     footer{
