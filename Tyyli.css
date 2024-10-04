@@ -202,7 +202,7 @@ table{
 }
 /*Mobiili koko*/
 @media (max-width: 600px){
-    .mainflex-container, #teksti1, #teksti2, #teksti3{
+    .mainflex-container, #teksti1, #teksti2, #teksti3, #kuva1, #kuva2, #kuva3{
         border: 2px solid #3cff00;
         display: flex;
         flex-direction: column;
@@ -213,7 +213,6 @@ table{
         }
         #teksti1, #teksti2, #teksti3{
             font-size: 20px;
-            width: 100%;
             text-align: center;
             width: 100px;
         }
