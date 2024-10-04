@@ -220,10 +220,12 @@ table{
     .flex-container1{
         display: grid;
         justify-content: center;
+        text-align: center;
         grid-area: g3;
     }
     .flex-container2{
         justify-content: center;
+        text-align: center;
         grid-area: g2;
     }
     #teksti1, #teksti2, #teksti{
