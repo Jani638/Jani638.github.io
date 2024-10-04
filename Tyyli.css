@@ -241,6 +241,9 @@ table{
         flex-direction: column;
         margin-bottom: 50px;
     }
+    #kartta{
+        width: 100%;
+    }
 
     footer{
         width: 100%;
