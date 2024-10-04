@@ -214,6 +214,7 @@ table{
         #teksti1, #teksti2, #teksti3{
             font-size: 20px;
             width: 100%;
+            text-align: center;
         }
     #headeretusivu{
         display: flex;
