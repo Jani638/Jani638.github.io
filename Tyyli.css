@@ -249,3 +249,9 @@ table{
         text-align: center;
     }
 }
+/*Iso näyttö*/
+@media (max-width: 1300px) {
+    .Contact-sivu{
+        padding-bottom: 50%;
+    }
+}
