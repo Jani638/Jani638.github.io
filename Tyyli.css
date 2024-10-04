@@ -219,6 +219,7 @@ table{
     }
     .flex-container1{
         display: grid;
+        justify-content: center;
         grid-area: g3;
     }
     .flex-container2{
@@ -239,10 +240,7 @@ table{
         font-size: 30px;
     }
     .Yhteystietosivu{
-        display: flex;
-        flex-direction: column;
-        align-content: center;
-        justify-content: center;
+        display: grid;
     }
     #kartta{
         grid-area: g3;
