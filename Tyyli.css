@@ -251,7 +251,7 @@ table{
 }
 /*Iso näyttö*/
 @media (max-width: 1300px) {
-    .flex-container-contact{
-        margin-bottom: 200%;
+    .Yhteystietosivu{
+        margin-bottom: 200px;
     }
 }
