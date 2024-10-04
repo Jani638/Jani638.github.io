@@ -208,7 +208,9 @@ table{
         flex-direction: column;
         align-content: center;
         justify-content: center;
-        margin: 0;
+        margin-left: 5%;
+        margin-right: 5%;
+
 
         }
     #headeretusivu{
@@ -243,9 +245,6 @@ table{
     #kuva1, #kuva2, #kuva3{
         height: auto;
         width: 100%;
-    }
-    #kuva3{
-        order: 4;
     }
     nav a { 
         font-size: 15px;
