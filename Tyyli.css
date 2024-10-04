@@ -121,7 +121,6 @@ footer {
 #teksti3{
     text-align: start;
     font-size: 1.5vw;
-    padding-right: px;
 }
 #kuva1{
     margin-left:75px;
@@ -251,7 +250,8 @@ table{
 }
 /*Iso näyttö*/
 @media (max-width: 1300px) {
-    .Yhteystietosivu{
+    .flex-container-contact{
         margin-bottom: 200px;
+        padding-bottom: 200px;
     }
 }
