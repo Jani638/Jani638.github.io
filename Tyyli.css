@@ -213,6 +213,7 @@ table{
         }
         #teksti1, #teksti2, #teksti3{
             font-size: 15px;
+            width: 100%;
         }
     #headeretusivu{
         display: flex;
