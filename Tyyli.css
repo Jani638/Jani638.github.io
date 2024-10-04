@@ -251,7 +251,7 @@ table{
 }
 /*Iso näyttö*/
 @media (max-width: 1300px) {
-    .Contact-sivu{
-        padding-bottom: 50%;
+    .flex-container-contact{
+        margin-bottom: 200px;
     }
 }
