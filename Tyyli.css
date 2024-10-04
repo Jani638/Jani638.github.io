@@ -224,6 +224,9 @@ table{
     #teksti2{
         border: 2px solid #ff006f;
     }
+    #teksti3{
+        border: 2px solid #001eff;
+    }
     #kuva1, #kuva2, #kuva3{
         height: auto;
         width: 100%;
