@@ -218,11 +218,14 @@ table{
         max-width: 80%;
     }
     .flex-container1{
+        font-size: 30px;
         display: grid;
         justify-content: center;
         grid-area: g3;
     }
     .flex-container2{
+        justify-content: center;
+        font-size: 30px;
         grid-area: g2;
     }
     #kuva1, #kuva2, #kuva3{
