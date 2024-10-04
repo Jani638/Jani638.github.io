@@ -235,6 +235,13 @@ table{
     #menuotsikko{
         font-size: 30px;
     }
+    .flex-container-contact{
+        border: 2px solid #fff;
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 50px;
+    }
+
     footer{
         width: 100%;
         flex-direction: column;
