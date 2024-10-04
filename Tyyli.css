@@ -219,23 +219,23 @@ table{
         background-image: url("../Kuvat/ravintola-mobiili.jpg");
         max-width: 80%;
     }
-    .toimintakehotenappi{
-        font-size: 40px;
-    }
     #teksti1{
-        border: 2px solid #000000;
+        border: 2px solid #ffffff;
         font-size: 15px;
         width: 100%;
+        margin: 0;
     }
     #teksti2{
         border: 2px solid #ff006f;
         font-size: 15px;
         width: 100%;
+        margin: 0;
     }
     #teksti3{
         border: 2px solid #001eff;
         font-size: 15px;
         width: 100%;
+        margin: 0;
     }
     #kuva1, #kuva2, #kuva3{
         height: auto;
