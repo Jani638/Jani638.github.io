@@ -218,12 +218,14 @@ table{
         max-width: 80%;
     }
     .flex-container1{
+        border: 2px solid #fff;
         display: grid;
         justify-content: center;
         text-align: center;
         grid-area: g3;
     }
     .flex-container2{
+        border: 2px solid #ff006f;
         justify-content: center;
         text-align: center;
         grid-area: g2;
