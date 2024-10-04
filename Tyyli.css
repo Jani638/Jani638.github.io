@@ -208,7 +208,7 @@ table{
         flex-direction: column;
         align-content: center;
         justify-content: center;
-        width: 100%;
+        margin: 0;
 
         }
     #headeretusivu{
@@ -219,8 +219,11 @@ table{
         background-image: url("../Kuvat/ravintola-mobiili.jpg");
         max-width: 80%;
     }
+    #toimintakehotenappi{
+        font-size: 18px;
+    }
     #teksti1{
-        border: 2px solid #ffffff;
+        border: 2px solid #000000;
         font-size: 15px;
         width: 100%;
     }
