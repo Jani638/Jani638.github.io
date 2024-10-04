@@ -202,7 +202,7 @@ table{
 }
 /*Mobiili koko*/
 @media (max-width: 600px){
-    .mainflex-container{
+    .mainflex-container, #teksti1, #teksti2{
         border: 2px solid #3cff00;
         display: flex;
         flex-direction: column;
@@ -216,21 +216,7 @@ table{
         justify-content: center;
         background-image: url("../Kuvat/ravintola-mobiili.jpg");
         max-width: 80%;
-    }
-    #teksti1{
-        border: 2px solid #ffffff;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-size: 15px;
-        width: 100%;
-        margin-left: 50%;
-    }
-    #teksti2{
-        border: 2px solid #ff006f;
-        font-size: 15px;
-        width: 100%;
-        margin-left: 10%;
+    
     }
     #teksti3{
         border: 2px solid #001eff;
