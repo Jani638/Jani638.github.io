@@ -223,19 +223,19 @@ table{
         border: 2px solid #ffffff;
         font-size: 15px;
         width: 100%;
-        margin: 0;
+        margin-left: 10%;
     }
     #teksti2{
         border: 2px solid #ff006f;
         font-size: 15px;
         width: 100%;
-        margin: 0;
+        margin-left: 10%;
     }
     #teksti3{
         border: 2px solid #001eff;
         font-size: 15px;
         width: 100%;
-        margin: 0;
+        margin-left: 10%;
     }
     #kuva1, #kuva2, #kuva3{
         height: auto;
