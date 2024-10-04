@@ -219,16 +219,9 @@ table{
     }
     .flex-container1{
         border: 2px solid #fff;
-        display: grid;
-        justify-content: center;
-        text-align: center;
-        grid-area: g3;
     }
     .flex-container2{
         border: 2px solid #ff006f;
-        justify-content: center;
-        text-align: center;
-        grid-area: g2;
     }
     #teksti1, #teksti2, #teksti3{
         font-size: 15px;
