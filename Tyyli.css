@@ -219,13 +219,16 @@ table{
         max-width: 80%;
     }
     #teksti1{
-        border: 2px solid #000000;
+        border: 2px solid #ffffff;
+        width: 100%;
     }
     #teksti2{
         border: 2px solid #ff006f;
+        width: 100%;
     }
     #teksti3{
         border: 2px solid #001eff;
+        width: 100%;
     }
     #kuva1, #kuva2, #kuva3{
         height: auto;
