@@ -217,14 +217,11 @@ table{
         background-image: url("../Kuvat/ravintola-mobiili.jpg");
         max-width: 80%;
     }
-    .flex-container1{
+    #teksti1{
         border: 2px solid #fff;
     }
-    .flex-container2{
+    #teksti2{
         border: 2px solid #ff006f;
-    }
-    #teksti1, #teksti2, #teksti3{
-        font-size: 15px;
     }
     #kuva1, #kuva2, #kuva3{
         height: auto;
