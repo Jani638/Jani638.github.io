@@ -215,7 +215,6 @@ table{
         #kuva1, #kuva2, #kuva3{
             height: auto;
             width: 100%;
-            padding: 10%;
         }
     #headeretusivu{
         display: flex;
