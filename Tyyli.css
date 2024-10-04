@@ -210,8 +210,6 @@ table{
         justify-content: center;
         margin-left: 5%;
         margin-right: 5%;
-
-
         }
     #headeretusivu{
         display: flex;
@@ -220,7 +218,6 @@ table{
         justify-content: center;
         background-image: url("../Kuvat/ravintola-mobiili.jpg");
         max-width: 80%;
-        max-height: 100px;
     }
     #teksti1{
         border: 2px solid #ffffff;
