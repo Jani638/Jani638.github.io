@@ -206,10 +206,11 @@ table{
         display: grid;
             grid-template-areas:
             'g1'
-            'g3'
-            'g2';
+            'g2'
+            'g3';
     }
     #headeretusivu{
+        display: flex;
         align-items: center;
         justify-content: center;
         background-image: url("../Kuvat/ravintola-mobiili.jpg");
