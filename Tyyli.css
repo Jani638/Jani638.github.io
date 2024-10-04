@@ -202,7 +202,8 @@ table{
 }
 /*Mobiili koko*/
 @media (max-width: 600px){
-    .Pääsivu{
+    .mainflex-container{
+        display: grid;
             grid-template-areas:
             'g1'
             'g3'
