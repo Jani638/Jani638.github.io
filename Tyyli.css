@@ -219,11 +219,11 @@ table{
         background-image: url("../Kuvat/ravintola-mobiili.jpg");
         max-width: 80%;
     }
-    #toimintakehotenappi{
+    .toimintakehotenappi{
         font-size: 18px;
     }
     #teksti1{
-        border: 2px solid #000000;
+        border: 2px solid #ffffff;
         font-size: 15px;
         width: 100%;
     }
