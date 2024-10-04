@@ -220,6 +220,7 @@ table{
         justify-content: center;
         background-image: url("../Kuvat/ravintola-mobiili.jpg");
         max-width: 80%;
+        max-height: 100px;
     }
     #teksti1{
         border: 2px solid #ffffff;
@@ -244,6 +245,9 @@ table{
     }
     #kuva1, #kuva2, #kuva3{
         height: auto;
+        width: 100%;
+    }
+    nav{
         width: 100%;
     }
     nav a { 
