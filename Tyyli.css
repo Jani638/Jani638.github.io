@@ -247,6 +247,9 @@ table{
         flex-direction: column;
         text-align: center;
     }
+    #footercontact{
+        position: relative;
+    }
 }
 /*Iso näyttö*/
 @media (max-width: 1300px) {
