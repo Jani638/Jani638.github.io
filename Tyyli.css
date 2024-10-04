@@ -203,6 +203,7 @@ table{
 /*Mobiili koko*/
 @media (max-width: 600px){
     .mainflex-container{
+        border: 2px solid #3cff00;
         display: grid;
             grid-template-areas:
             'g1'
