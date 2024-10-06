@@ -204,7 +204,7 @@ table{
     .Pääsivu{
         background-color: #EEE3C6;
         overflow-x: hidden;
-        width: ;
+        width:100% ;
         height: 175vh;
         padding: 0;
         margin: 0;
@@ -237,6 +237,12 @@ table{
     }
     #menuotsikko{
         font-size: 30px;
+    }
+    #headermenu{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
     }
     .flex-container-Menu{
         text-align: center;
