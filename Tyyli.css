@@ -294,8 +294,11 @@ table{
     }
 }
     /*suuri näyttö*/
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1300px) {
     .flex-container-Menu{
+        font-size: 20px;
+    }
+    .mainflex-container{
         font-size: 20px;
     }
 
