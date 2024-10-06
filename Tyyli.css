@@ -72,7 +72,7 @@ footer {
     background-color: #DCB4B3;
 }
 #headeretusivu{
-    background-image: url("../Kuvat/rainvto.jpg");
+    background-image: url("../Kuvat/ravintola.jpg");
     padding: 200px;
 }
 #lause1{
@@ -236,7 +236,7 @@ table{
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        background-image: url("../Kuvat/rainvto.jpg");
+        background-image: url("../Kuvat/ravintola.jpg");
         padding: 50px ;
     }
     nav a { 
