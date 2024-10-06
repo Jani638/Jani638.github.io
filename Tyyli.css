@@ -203,14 +203,17 @@ table{
 @media (max-width: 600px){
     .Pääsivu{
         background-color: #EEE3C6;
+        overflow-x: hidden;
+        width:100% ;
         height: 180vh;
+        padding: 0;
+        margin: 0;
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
         }
         .mainflex-container{
-            justify-content: space-evenly;
             padding: 0;
             margin: 0;
         }
