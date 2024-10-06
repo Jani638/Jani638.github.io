@@ -290,6 +290,7 @@ table{
     }
     .Contact-sivu{
         background-image: url("../Kuvat/Ikkuna.jpg");
+        background-color: #091D14;
         background-size: cover;
         background-repeat:no-repeat;
         margin: 0;
