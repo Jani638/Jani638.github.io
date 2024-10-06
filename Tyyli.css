@@ -241,22 +241,17 @@ table{
     }
     .Menu-sivu{
         display: flex;
-        width: 100%;
         flex-direction: column;
         justify-content: center;
         align-content: center;
-        text-align: center;
         margin: 0;
         padding: 0;
     }
     #menuotsikko{
         font-size: 30px;
     }
-    #menunappulat{
-        margin-left: 10%;
-        margin-right: 10%;
-    }
     .flex-container-Menu{
+        border: 3px solid #5C0028;
         margin: 0;
         text-align: center;
     }
