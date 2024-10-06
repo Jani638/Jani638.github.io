@@ -198,6 +198,7 @@ footer {
 table{
     font-size: 1.5vw;
     text-align: left;
+    color: #5C0028;
 }
 /*Mobiili koko*/
 @media (max-width: 600px){
@@ -282,6 +283,9 @@ table{
 /*tabletti koko*/
 @media screen and (min-width: 600px) {
     #footercontact{
+        position: fixed;
+    }
+    #footermenu{
         position: fixed;
     }
 }
