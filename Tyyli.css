@@ -242,7 +242,7 @@ table{
     #menuotsikko{
         font-size: 30px;
     }
-    #headermenu{
+    #Menunappulat{
         display: flex;
         flex-direction: column;
         justify-content: center;
