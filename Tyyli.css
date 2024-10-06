@@ -251,6 +251,8 @@ table{
         justify-content: center;
     }
     .flex-container-Menu{
+        margin-left: 2%;
+        margin-right: 2%;
         text-align: center;
     }
     #otsikko-contact{
