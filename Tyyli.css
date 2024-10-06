@@ -44,7 +44,13 @@ footer {
     flex-direction: row;
     bottom: 0;
     width: 100%;
-
+}
+footer a{
+    color: #EEE3C6;
+    text-decoration: none;
+}
+footer a:hover{
+    color:#DCB4B3
 }
 .fa { 
     border: 3px solid #ab876c;
@@ -169,6 +175,13 @@ footer {
 #Menufooter{
     background-color: #EEE3C6;
     color: #5C0028;
+}
+#Menufooter a{
+    color: #5C0028;
+    text-decoration: none;
+}
+#Menufooter a:hover{
+    color:#DCB4B3
 }
 /*Contact sivun sisältö*/
 .Contact-sivu{
