@@ -271,14 +271,9 @@ table{
         text-align: center;
     }
 }
-/*Iso näyttö*/
+/*tabletti koko*/
 @media screen and (min-width: 600px) {
     #footecontact{
         position: fixed;
-    }
-    .flex-container-contact, #kartta{
-        display: flex;
-        flex-direction: column;
-        margin-bottom: 50px;
     }
 }
