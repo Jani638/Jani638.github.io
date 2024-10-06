@@ -281,7 +281,7 @@ table{
 }
 /*tabletti koko*/
 @media screen and (min-width: 600px) {
-    #footecontact{
+    #footercontact{
         position: fixed;
     }
 }
