@@ -288,4 +288,7 @@ table{
     #footermenu{
         position: fixed;
     }
+    .Contact-sivu{
+        background-size: cover;
+    }
 }
