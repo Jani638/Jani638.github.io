@@ -213,11 +213,8 @@ table{
         align-items: center;
         justify-content: center;
         }
-        .flex-container-contact{
-            background-color: #EEE3C6;
-            border: 4px solid #EEE3C6;
-        }
         .mainflex-container{
+            border: 4px solid #EEE3C6;
             margin: 0;
         }
         #kuva1, #kuva2, #kuva3{
@@ -260,7 +257,7 @@ table{
         font-size: 30px;
     }
     .flex-container-Menu{
-        border: 3px solid #5C0028;
+        border: 4px solid #5C0028;
         margin: 0;
         text-align: center;
     }
