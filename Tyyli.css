@@ -249,7 +249,6 @@ table{
         padding: 0;
     }
     #menuotsikko{
-        white-space: nowrap;
         font-size: 30px;
     }
     #Menunappulat{
@@ -260,6 +259,7 @@ table{
         text-align: center;
     }
     .flex-container-Menu{
+        margin: 0;
         text-align: center;
     }
     #otsikko-contact{
