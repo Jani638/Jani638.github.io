@@ -251,6 +251,10 @@ table{
     #menuotsikko{
         font-size: 30px;
     }
+    #menunappulat{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
     .flex-container-Menu{
         margin: 0;
         text-align: center;
