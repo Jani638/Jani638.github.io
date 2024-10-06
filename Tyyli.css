@@ -247,9 +247,9 @@ table{
         text-align: center;
         margin: 0;
         padding: 0;
-        height: 170vh;
     }
     #menuotsikko{
+        white-space: nowrap;
         font-size: 30px;
     }
     #Menunappulat{
