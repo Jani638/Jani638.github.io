@@ -150,8 +150,6 @@ footer {
 }
 .flex-container-Menu {
     background-color: #DCB4B3;
-    border-top-left-radius: 150px;
-    border-top-right-radius: 150px;
     display: flex;
     flex-direction: column;
     justify-content: center;
