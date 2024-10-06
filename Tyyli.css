@@ -214,6 +214,12 @@ table{
         justify-content: center;
         }
         .mainflex-container{
+            grid-template-areas: 
+            'g1'
+            'g2'
+            'g3'
+            ;
+            display: grid;
             padding: 0;
             margin: 0;
         }
