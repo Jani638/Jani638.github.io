@@ -205,7 +205,7 @@ table{
         background-color: #EEE3C6;
         overflow-x: hidden;
         width:100vw ;
-        height: 100vh;
+        height: 150vh;
         padding: 0;
         margin: 0;
         display: flex;
@@ -237,6 +237,9 @@ table{
     }
     #menuotsikko{
         font-size: 30px;
+    }
+    .flex-container-Menu{
+        text-align: center;
     }
     #otsikko-contact{
         font-size: 30px;
