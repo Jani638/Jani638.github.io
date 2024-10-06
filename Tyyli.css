@@ -291,7 +291,8 @@ table{
     .Contact-sivu{
         background-image: url("../Kuvat/Ikkuna.jpg");
         background-size: cover;
-        background-repeat: no-repeat;
+        background-repeat:no-repeat;
+        margin: 0;
     }
 }
     /*suuri näyttö*/
@@ -299,8 +300,8 @@ table{
     .flex-container-Menu{
         font-size: 20px;
     }
-    .mainflex-container h2{
-        font-size: 20px;
+    .flex-container1 h2{
+        font-size: 40px;
     }
 
 }
