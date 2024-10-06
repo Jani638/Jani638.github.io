@@ -240,6 +240,11 @@ table{
         margin:3px 5px;
     }
     .Menu-sivu{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        text-align: center;
         margin: 0;
         padding: 0;
         height: 170vh;
@@ -255,8 +260,6 @@ table{
         text-align: center;
     }
     .flex-container-Menu{
-        margin-left: 2%;
-        margin-right: 2%;
         text-align: center;
     }
     #otsikko-contact{
