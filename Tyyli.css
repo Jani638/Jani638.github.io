@@ -206,7 +206,7 @@ table{
         background-color: #EEE3C6;
         overflow-x: hidden;
         width:100% ;
-        height: 170vh;
+        height: 160vh;
         padding: 0;
         margin: 0;
         display: flex;
@@ -287,6 +287,11 @@ table{
     }
     #footermenu{
         position: fixed;
+    }
+    .flex-container-Menu{
+        font-size: 20px;
+        padding-top: 10%;
+        padding-bottom: 10%;
     }
     .Contact-sivu{
         background-image: url("../Kuvat/Ikkuna.jpg");
