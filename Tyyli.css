@@ -229,6 +229,9 @@ table{
         background-image: url("../Kuvat/rainvto.jpg");
         padding: 50px ;
     }
+    .toimintakehote{
+
+    }
     nav a { 
         font-size: 15px;
         width: 100%;
@@ -242,6 +245,8 @@ table{
     #headermenu{
         display: flex;
         justify-content: center;
+        align-content: center;
+        text-align: center;
     }
     .flex-container-Menu{
         margin-left: 2%;
