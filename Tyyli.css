@@ -205,12 +205,10 @@ table{
         background-color: #EEE3C6;
         overflow-x: hidden;
         width:100% ;
-        height: 100vh;
+        height: 180vh;
         padding: 0;
         margin: 0;
         display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
         flex-direction: column;
         align-items: center;
         justify-content: center;
