@@ -217,6 +217,9 @@ table{
             height: auto;
             width: 90%;
         }
+        #kuva1, #kuva3{
+            margin-left: 0;
+        }
         #lause1{
             font-size: 30px;
         }
