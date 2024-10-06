@@ -254,7 +254,6 @@ table{
         font-size: 30px;
     }
     .flex-container-contact, #kartta{
-        border: 2px solid #fff;
         display: flex;
         flex-direction: column;
         margin-bottom: 50px;
