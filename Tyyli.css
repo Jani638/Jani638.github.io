@@ -214,12 +214,9 @@ table{
         justify-content: center;
         }
         .mainflex-container{
-            grid-template-areas: 
-            'g1'
-            ;
-            display: grid;
             padding: 0;
-            margin: 0;
+            margin-left: 2%;
+            margin-right: 2%;
         }
         #kuva1, #kuva2, #kuva3{
             height: auto;
