@@ -217,6 +217,9 @@ table{
             height: auto;
             width: 100%;
         }
+        #lause1{
+            font-size: 30px;
+        }
     #headeretusivu{
         display: flex;
         flex-direction: column;
@@ -235,12 +238,17 @@ table{
     #menuotsikko{
         font-size: 30px;
     }
+    #otsikko-contact{
+        font-size: 30px;
+    }
     .flex-container-contact, #kartta{
         border: 2px solid #fff;
         display: flex;
         flex-direction: column;
         margin-bottom: 50px;
-        font-size: 20px;
+    }
+    .aukioloajat{
+        font-size: 15px;
     }
 
     footer{
