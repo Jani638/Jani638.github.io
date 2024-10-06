@@ -303,5 +303,12 @@ table{
     .flex-container1 h2{
         font-size: 40px;
     }
+    .Kuvat h2{
+        font-size: 40px;
+    }
+    .flex-container-contact{
+        margin-bottom: 20%;
+        margin-top: 20%;
+    }
 
 }
