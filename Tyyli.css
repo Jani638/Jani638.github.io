@@ -291,6 +291,7 @@ table{
     .Contact-sivu{
         background-image: url("../Kuvat/Ikkuna.jpg");
         background-size: cover;
+        background-repeat: no-repeat;
     }
 }
     /*suuri näyttö*/
