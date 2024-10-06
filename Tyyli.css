@@ -250,7 +250,5 @@ table{
 }
 /*Iso näyttö*/
 @media (max-width: 1300px) {
-    #footercontact{
-        position: fixed;
-    }
+    
 }
