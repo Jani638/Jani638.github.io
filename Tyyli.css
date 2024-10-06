@@ -299,6 +299,8 @@ table{
 @media screen and (min-width: 1300px) {
     .flex-container-Menu{
         font-size: 20px;
+        padding-top: 10%;
+        padding-bottom: 10%;
     }
     .flex-container1 h2{
         font-size: 40px;
