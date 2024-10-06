@@ -159,8 +159,10 @@ footer {
     justify-content: center;
     align-items: center;
     text-align: center;
-    margin: 20%;
-    
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 10%;
+    padding-bottom: 10%;
 }
 #tekstimenu {
     margin-left: 10%;
@@ -289,6 +291,7 @@ table{
         position: fixed;
     }
     .Contact-sivu{
+        background-image: url("../Kuvat/Ikkuna.jpg");
         background-size: cover;
     }
 }
