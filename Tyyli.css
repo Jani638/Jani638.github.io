@@ -146,7 +146,7 @@ footer a:hover{
 .Menu-sivu header{
     background-image: url("../Kuvat/Menukuva.jpg");
     background-position: bottom;
-    padding: 100px;
+    padding: 250px;
 }
 #menuotsikko{
     padding:20px;
@@ -331,5 +331,6 @@ table{
         margin-bottom: 20%;
         margin-top: 20%;
     }
+    
 
 }
