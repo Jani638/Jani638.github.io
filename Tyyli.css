@@ -274,6 +274,12 @@ table{
         margin: 0;
         text-align: center;
     }
+    #headercontact{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
     #otsikko-contact{
         font-size: 30px;
     }
