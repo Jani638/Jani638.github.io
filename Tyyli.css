@@ -71,6 +71,7 @@ footer a:hover{
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
+    font-size: 15px;
 }
 
 /*Pääsivun sisältö*/
@@ -91,6 +92,10 @@ footer a:hover{
 }
 .CTAdiv{
     padding-top: 30px;
+}
+.toimintakehote{
+    margin-right: 2%;
+    font-size: 20px;
 }
 .mainflex-container{
     background-color: #EEE3C6;
